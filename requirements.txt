@@ -1,4 +1,4 @@
-#absl-py @ file:///opt/conda/conda-bld/absl-py_1639803114343/work
+absl-py @ file:///opt/conda/conda-bld/absl-py_1639803114343/work
 aiohttp @ file:///C:/ci/aiohttp_1646806572557/work
 aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
 argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
